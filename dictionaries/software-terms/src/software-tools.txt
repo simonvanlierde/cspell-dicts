@@ -386,6 +386,7 @@ Pyright
 qmake
 Quarkus
 RabbitMQ
+rclone
 Redis
 Redis # Redis Database
 Redshift
