@@ -58,6 +58,7 @@ chroot
 CircleCI
 clangd
 Cloudera
+cloudflared
 Cloudkick
 CloudStack
 cmake
