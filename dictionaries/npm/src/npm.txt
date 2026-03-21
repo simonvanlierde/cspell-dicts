@@ -436,6 +436,7 @@
 @tsparticles/engine
 @tsparticles/interaction-external-bounce
 @tsparticles/interaction-external-grab
+@tsparticles/interaction-external-pause
 @tsparticles/interaction-external-push
 @tsparticles/interaction-external-remove
 @tsparticles/interaction-external-repulse
@@ -483,6 +484,7 @@
 @vitejs/plugin-legacy
 @vitejs/plugin-react
 @vitest/browser-playwright
+@vitest/ui
 @vue/eslint-config-typescript
 @vuepress/core
 @vuepress/markdown
@@ -1767,7 +1769,7 @@ manifest
 mantine-contextmenu
 many-favorite6
 map-stream
-mapboxgl
+mapbox-gl
 mapboxgl-legend
 markdown
 markdown-it
@@ -2566,7 +2568,6 @@ swagger-ui-express
 swam-darkness-weak
 swig
 swiper
-swiperjs
 swr
 sync-request
 synckit

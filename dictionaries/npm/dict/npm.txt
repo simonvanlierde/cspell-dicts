@@ -1277,6 +1277,7 @@ install
 inter
 interaction-external-bounce
 interaction-external-grab
+interaction-external-pause
 interaction-external-push
 interaction-external-remove
 interaction-external-repulse
@@ -1532,6 +1533,7 @@ many-favorite
 map
 map-stream
 map-workspaces
+mapbox-gl
 mapboxgl
 mapboxgl-legend
 markdown
@@ -2528,7 +2530,6 @@ swc
 swenkerorg
 swig
 swiper
-swiperjs
 swisspost
 swr
 symbiote
