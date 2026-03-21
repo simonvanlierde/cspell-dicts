@@ -508,6 +508,7 @@ Zellij
 Zendesk
 Zenoss
 ZenServer
+Zensical
 ZeroMQ
 Zipkin
 zoxide
