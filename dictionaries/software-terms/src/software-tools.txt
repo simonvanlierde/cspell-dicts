@@ -268,8 +268,8 @@ markdownlint
 markdownlintignore
 MATE # Another fork of GNOME 2
 MCAP
-mdformat
 mdast
+mdformat
 MegaLinter
 Microsoft
 Miniconda
