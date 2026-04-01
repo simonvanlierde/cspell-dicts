@@ -62,6 +62,7 @@ aperiam-fugit-error
 api
 api-components
 api-console
+api-contracts
 api-extractor
 api-method-documentation
 api-reference
@@ -664,6 +665,7 @@ egjs
 eightshift
 ejs
 elasticsearch
+eld
 electricity-death-web3-story
 electron
 electron-builder
@@ -1502,6 +1504,7 @@ log4js
 logger
 logging-helpers
 loglevel
+lokalise
 loki
 long
 loopback
@@ -2542,6 +2545,7 @@ system
 systeminformation
 systemjs
 t
+table-core
 tail-iron-became
 tailwind
 tailwind-merge
@@ -2812,6 +2816,7 @@ watchify
 waterline
 wd
 web
+web-haptics
 web3-be
 web3-capital
 web3-common

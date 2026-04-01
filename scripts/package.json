@@ -30,7 +30,7 @@
     "cspell-io": "^9.7.0",
     "cspell-lib": "^9.7.0",
     "cspell-trie-lib": "^9.7.0",
-    "globby": "^16.1.1",
+    "globby": "^16.2.0",
     "globrex": "^0.1.2",
     "json5": "2.2.3",
     "prettier": "^3.8.1",
@@ -38,7 +38,7 @@
     "remark-gfm": "^4.0.1",
     "shelljs": "^0.10.0",
     "sort-package-json": "^3.6.1",
-    "yaml": "^2.8.2"
+    "yaml": "^2.8.3"
   },
   "engines": {
     "node": ">=18.0.0"

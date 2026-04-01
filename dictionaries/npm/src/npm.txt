@@ -255,6 +255,7 @@
 @libphamton/chatfanpage
 @listr2/prompt-adapter-inquirer
 @lobehub/chat
+@lokalise/api-contracts
 @mantine/carousel
 @mantine/code-highlight
 @mantine/core
@@ -401,6 +402,7 @@
 @tanem/svg-injector
 @tanstack/react-query
 @tanstack/svelte-query
+@tanstack/table-core
 @tanstack/virtual-core
 @teamhanko/hanko-frontend-sdk
 @teamteanpm2024/aperiam-fugit-error
@@ -1005,6 +1007,7 @@ echarts
 eclint
 ejs
 elasticsearch
+eld
 electricity-death-web3-story
 electron
 electron-builder
@@ -2784,6 +2787,7 @@ watch
 watchify
 waterline
 wd
+web-haptics
 web3
 web3-be
 web3-capital
